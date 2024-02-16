@@ -2,5 +2,5 @@
 
 ## How to use
 
-- Add `<link href="https://iosevka-webfonts.github.io/iosevkafixedcurlyslab/iosevkafixedcurlyslab.css" rel="stylesheet" />` to your `<head>`.
-- Use `fontFamily: 'Iosevkafixedcurlyslab Web'` or `font-family: 'Iosevkafixedcurlyslab Web'`.
+- Add `<link href="https://iosevka-webfonts.github.io/iosevkafixedcurlyslab/IosevkaFixedCurlySlab.css" rel="stylesheet" />` to your `<head>`.
+- Check out the [CSS file](./IosevkaFixedCurlySlab.css) for browsing the name of font family.
